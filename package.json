@@ -1,0 +1,20 @@
+{
+  "name": "crypto-price-tracker.altmaer",
+  "version": "1.0.0",
+  "description": "Crypto price tracker landing page",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "Altmaer (https://altmaer.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.9.3",
+    "@parcel/packager-xml": "^2.9.3",
+    "@parcel/transformer-webmanifest": "^2.9.3",
+    "@parcel/transformer-xml": "^2.9.3",
+    "parcel": "^2.9.3"
+  }
+}
